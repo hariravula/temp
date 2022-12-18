@@ -1,2 +1,2 @@
 # temp
-sdfdsf
+This is a temporary repository.
